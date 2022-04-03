@@ -1,4 +1,4 @@
 streamlit==1.8.0
 numpy
-pundas
+pandas
 time
