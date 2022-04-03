@@ -1,9 +1,3 @@
-from cgitb import text
-from email.mime import image
-import imp
-from itertools import tee
-from turtle import color
-from winreg import ExpandEnvironmentStrings
 import streamlit as st
 import numpy as np
 import pandas as pd 
